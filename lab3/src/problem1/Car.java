@@ -20,4 +20,5 @@ public class Car implements Moveable {
 	public String toString() {
 		return "Brand: " + brand;
 	}
+	
 }

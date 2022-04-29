@@ -11,7 +11,7 @@ public abstract class Pet {
 		this.age = age;
 	}
 	
-	abstract void sound();
+	abstract void voice();
 	
 	public String getName() {
 		return name;

@@ -7,7 +7,6 @@ public class Tester {
 		Dog pet = new Dog("Victor", 2, "Husky");
 		Car car = new Car("Porsche");
 		
-		
 	}
 
 }

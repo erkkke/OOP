@@ -8,7 +8,7 @@ public class Dog extends Pet implements Moveable {
 		this.bread = bread;
 	}
 	
-	void sound() {
+	void voice() {
 		System.out.println("gaf");
 	}
 	
